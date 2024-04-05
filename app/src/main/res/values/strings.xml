@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WanderGo</string>
+    <string name="description">Srimangal is a small hill town located in the Sylhet
+                Division of Bangladesh, known for its picturesque tea gardens and
+                natural beauty. The town is situated in the midst of the beautiful tea gardens of the
+                 Sylhet Valley and is surrounded by lush green hills and forests.</string>
+    <string name="hotel">Nil Pahari Eco Resort"\n"
+                         Phone:01365478910"\n"
+                         Bed:2"\n"
+                        Price:2000TK
+    </string>
+    <string name="hotel2">Hotel Maitree"\n"
+                         Phone:01365478920"\n"
+                         Bed:2"\n"
+                        Price:3000TK
+
+    </string>
+</resources>
